@@ -9,13 +9,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">3rd year CSBS student and a passionate learner!</h2></summary>
+    <summary><h2 style="display: inline-block">Software Engineer</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Cloud, React-Redux**
+- 🔭 I’m currently working on **SpringBoot, Microservices**
 
 - 📫 Feel free to reach me out **ashmitranjan978@gmail.com**
 
